@@ -12,7 +12,7 @@ let args = minimist(process.argv.slice(2), {
       z: 'zip'
     },
     default: {
-      g: 'M',
+      g: 'F',
       d: '1990-01-01',
       m: 50,
       z: '10009'

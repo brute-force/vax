@@ -1,0 +1,24 @@
+{
+  "name": "vax",
+  "version": "1.0.0",
+  "description": "NYS vaccine availability notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brute-force/vax.git"
+  },
+  "author": "Reuel Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brute-force/vax/issues"
+  },
+  "homepage": "https://github.com/brute-force/vax#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1"
+  }
+}
